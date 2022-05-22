@@ -15,6 +15,7 @@
     {
       "id": 2,
       "title": "Mouse",
+      "price": 170000,
       "category": "computer peripherals",
       "description": "iLogix gaming mouse suitable for FPS and Action RTS",
       "images": [
@@ -25,6 +26,7 @@
     {
       "id": 3,
       "title": "Monitor",
+      "price": 3010000,
       "category": "computer peripherals",
       "description": "27 inch ph monitor bezeless include with speaker",
       "images": [
