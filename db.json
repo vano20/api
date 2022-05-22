@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "Keyboard",
+      "title": "Keyboard Mini Original for Komputer PC Laptop Multimedia",
       "price": 230000,
       "category": "computer peripherals",
-      "description": "Cheap keyboard for daily use",
+      "description": "Cheap keyboard mini original for daily use computer pc laptop include multimedia",
       "images": [
         "https://images.unsplash.com/photo-1587829741301-dc798b83add3?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465",
         "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "title": "Mouse",
+      "title": "iLogix G103 Gaming Mouse Macro [FS]",
       "price": 170000,
       "category": "computer peripherals",
       "description": "iLogix gaming mouse suitable for FPS and Action RTS",
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "title": "Monitor",
+      "title": "PH E24u G4 FHD USB-C Monitor/ 27 inch 1920 x 1080 / IPS / 60 Hz / 5 ms",
       "price": 3010000,
       "category": "computer peripherals",
       "description": "27 inch ph monitor bezeless include with speaker",
